@@ -30,11 +30,14 @@
 - 全国计算机三级考试
 ##  技能
 - 环境DNA高通量分析
-- 熟练使用Arcgis、Ocean Data View
-- 了解数据结构、C++、Python、Linux、R
-- 
+- 熟练使用Arcgis、Ocean Data View、AI等工具
+- 了解数据结构、C++、Python、Linux、R等语言
+- 转录组分析
+- 基因家族分析
+- 群体遗传进化分析
 
 
+![Image](Graphical Abstract-1.png)
 # 研究成果
 ## 第一作者发表论文
 - **Zhang, H.**, Zhou, Y., Zhang, H., Gao, T. & Wang, X. (2022) Fishery resource monitoring of the East China Sea via environmental DNA approach: a case study using black sea bream (_Acanthopagrus schlegelii_). _Frontiers in Marine Science_,  _9_ :848950.(in proof)doi: 10.3389/fmars.2022.848950
