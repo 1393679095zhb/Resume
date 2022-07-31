@@ -1,5 +1,5 @@
 
-![Image](image.jpg)
+![Image](my.jpg)
 
 # 基本信息
 - **姓 名** ：张浩博
@@ -39,7 +39,7 @@
 - 群体遗传进化分析
 
 
-![Image](Graphical Abstract-1.png)
+![Image](Graphical Abstract.jpg)
 # 研究成果
 ## 第一作者发表论文
 - **Zhang, H.**, Zhou, Y., Zhang, H., Gao, T. & Wang, X. (2022) Fishery resource monitoring of the East China Sea via environmental DNA approach: a case study using black sea bream (_Acanthopagrus schlegelii_). _Frontiers in Marine Science_,  _9_ :848950.(in proof)doi: 10.3389/fmars.2022.848950
