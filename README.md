@@ -30,6 +30,8 @@
 - 全国计算机三级考试
 ##  技能
 - 环境DNA高通量分析
+- 荧光定量PCR
+- 环境DNA提取
 - 熟练使用Arcgis、Ocean Data View、AI等工具
 - 了解数据结构、C++、Python、Linux、R等语言
 - 转录组分析
