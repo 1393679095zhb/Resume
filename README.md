@@ -1,5 +1,6 @@
-
-![Image](myfig.jpg)
+{:refdef: style="text-aglin: center;"}
+![Image](my1.jpg)
+{: refdef}
 
 # 基本信息
 - **姓 名** ：张浩博
