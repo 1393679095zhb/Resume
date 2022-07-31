@@ -38,14 +38,13 @@
 - 基因家族分析
 - 群体遗传进化分析
 
-
-![Image](Graphical Abstract.jpg)
 # 研究成果
 ## 第一作者发表论文
+### 已发表论文
 - **Zhang, H.**, Zhou, Y., Zhang, H., Gao, T. & Wang, X. (2022) Fishery resource monitoring of the East China Sea via environmental DNA approach: a case study using black sea bream (_Acanthopagrus schlegelii_). _Frontiers in Marine Science_,  _9_ :848950.(in proof)doi: 10.3389/fmars.2022.848950
 - **张浩博**, 陈建威, 徐大有, 高天翔, 王晓艳. 基于高通量测序技术的海洋鱼类定性和定量分析. _浙江海洋大学学报(自然科学版)_, 2022, 41(1): 45-55.
 - 
-## 在投论文
+### 在投论文
 - **Zhang, H.**, Li, Y., Zhong, L., Gao, T. & Wang, X. Using environmental DNA methods to clarify the distribution of _Pampus echinogaster_ in the East China Sea. (_Frontiers in Marine Science_ 在投 )
 - **张浩博**, 王晓艳, 钟兰萍, 陈治, 高天翔. 基于环境DNA metabarcoding的西轩岛近海鱼类多样性研究 (生物多样性在投)
 - **张浩博**, 王晓艳, 陈治, 钟兰萍, 高天翔. 基于环境DNA metabarcoding的舟山及其邻近海域鱼类空间分布格局的初步研究 (水产学报在投)
