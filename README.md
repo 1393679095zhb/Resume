@@ -49,8 +49,8 @@
 
 ### 在投论文
 - **Zhang, H.**, Li, Y., Zhong, L., Gao, T. & Wang, X*. Using environmental DNA methods to clarify the distribution of _Pampus echinogaster_ in the East China Sea. (_Frontiers in Marine Science_ 在投 )
-- **张浩博**, 王晓艳, 钟兰萍, 陈治, 高天翔*. 基于环境DNA metabarcoding的西轩岛近海鱼类多样性研究 (生物多样性在投)
-- **张浩博**, 王晓艳, 陈治, 钟兰萍, 高天翔*. 基于环境DNA metabarcoding的舟山及其邻近海域鱼类空间分布格局的初步研究 (水产学报在投)
+- **张浩博**, 王晓艳, 钟兰萍, 陈治, 高天翔*. 基于环境DNA metabarcoding的西轩岛近海鱼类多样性研究 (_生物多样性_ 在投)
+- **张浩博**, 王晓艳, 陈治, 钟兰萍, 高天翔*. 基于环境DNA metabarcoding的舟山及其邻近海域鱼类空间分布格局的初步研究 (_水产学报_ 在投)
 
 ## 第二或共同作者发表论文
 - Wang, X., **Zhang, H.**, Lu, G., & Gao, T*. (2022). Detection of an invasive species through an environmental DNA approach: The example of the red drum _Sciaenops ocellatus_ in the East China Sea. _The Science of the Total Environment_, _815_: 152865.
