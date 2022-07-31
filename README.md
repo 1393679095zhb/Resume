@@ -1,37 +1,49 @@
-## Welcome to Haobo Zhang Pages
+# 基本信息
+**姓 名** ：张浩博
+**民 族** ：汉 族
+**联系方式**：19883831915
+**籍贯**：山西省大同市
+**政治面貌**：中共党员
+**出生年月**：1998.03
+**邮 箱**：z1393679095@163.com
+**通讯地址**：浙江省舟山市定海区临城街道海大南路1号(邮编：316004)
+**研究方向**：渔业资源追踪监测
+**指导教师**：高天翔 教授, 王晓艳 副教授
 
-You can use the [editor on GitHub](https://github.com/1393679095zhb/resume/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 教育背景
+### 2020.09-至今 浙江海洋大学 农业设施化  (硕士研究生在读)
+**主修课程**
+设施渔业工程技术、设施渔业环境工程、设施渔业科学进展、水产遗传育种进展、项目申报与管理等
+### 2016.09-2020.06 长治学院 生物技术 (本科)
+**主修课程**：
+有机化学、无机化学、生物化学、分子生物学、微生物学、生物信息、“四大工程”等
 
-### Basic Information
+# 技能证书
+## 证书
+- 普通话二级甲等
+- CET-4 425
+- CET-6 428
+- 全国计算机三级考试
+##  技能
+- 环境DNA高通量分析
+- 熟练使用Arcgis、Ocean Data View
+- 了解数据结构、C++、Python、Linux、R
+- 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# 研究成果
+## 第一作者发表论文
+- **Zhang, H.**, Zhou, Y., Zhang, H., Gao, T. & Wang, X. (2022) Fishery resource monitoring of the East China Sea via environmental DNA approach: a case study using black sea bream (_Acanthopagrus schlegelii_). _Frontiers in Marine Science_,  _9_ :848950.(in proof)doi: 10.3389/fmars.2022.848950
+- **张浩博**, 陈建威, 徐大有, 高天翔, 王晓艳. 基于高通量测序技术的海洋鱼类定性和定量分析. _浙江海洋大学学报(自然科学版)_, 2022, 41(1): 45-55.
+- 
+## 在投论文
+- **Zhang, H.**, Li, Y., Zhong, L., Gao, T. & Wang, X. Using environmental DNA methods to clarify the distribution of _Pampus echinogaster_ in the East China Sea. (_Frontiers in Marine Science_ 在投 )
+- **张浩博**, 王晓艳, 钟兰萍, 陈治, 高天翔. 基于环境DNA metabarcoding的西轩岛近海鱼类多样性研究 (生物多样性在投)
+- **张浩博**, 王晓艳, 陈治, 钟兰萍, 高天翔. 基于环境DNA metabarcoding的舟山及其邻近海域鱼类空间分布格局的初步研究 (水产学报在投)
 
-# Header 1
-## Header 2
-### Educational experience
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/1393679095zhb/resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 第二或共同作者发表论文
+- 高天翔, 陈治, 王晓艳, **张浩博**, 史会来. 褐菖鲉养殖密度与其eDNA的相关关系探讨. _水生生物学报_ , 2022, 7(46): 1007-1015. 
+- Wang, X., **Zhang, H.**, Lu, G., & Gao, T. (2022). Detection of an invasive species through an environmental DNA approach: The example of the red drum _Sciaenops ocellatus_ in the East China Sea. _The Science of the Total Environment_, _815_: 152865.
+- 高天翔, **张浩博**, 王晓艳, 陈治. 基于eDNA技术的舟山近海中国团扇鳐定性与定量分析. (水产学报已接收)
+- Jin, S., Deng, Z., Xu, S., **Zhang, H.**, & Han, Z. (2022). Genome-wide identification and low-salinity stress analysis of the Hsp70 gene family in swimming crab (Portunus trituberculatus). _International journal of biological macromolecules_, _208_, 126–135.
