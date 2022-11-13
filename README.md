@@ -50,7 +50,7 @@
 - **张浩博**, 陈建威, 徐大有, 高天翔, 王晓艳*. 基于高通量测序技术的海洋鱼类定性和定量分析. _浙江海洋大学学报(自然科学版)_, 2022, 41(1): 45-55.
 - Wang, X., **Zhang, H.**, Lu, G., & Gao, T*. (2022). Detection of an invasive species through an environmental DNA approach: The example of the red drum _Sciaenops ocellatus_ in the East China Sea. _The Science of the Total Environment_, _815_: 152865.
 - 高天翔*, **张浩博**, 王晓艳, 陈治. 基于eDNA技术的舟山近海中国团扇鳐定性与定量分析. _水产学报_
-- Jin, S., Deng, Z., Xu, S., **Zhang, H.**, & Han, Z*. (2022). Genome-wide identification and low-salinity stress analysis of the Hsp70 gene family in swimming crab (Portunus trituberculatus). _International Journal of Biological Macromolecules_, _208_, 126–135.
+- Jin, S., Deng, Z., Xu, S., **Zhang, H.**, & Han, Z*. (2022). Genome-wide identification and low-salinity stress analysis of the Hsp70 gene family in swimming crab (_Portunus trituberculatus_). _International Journal of Biological Macromolecules_, _208_, 126–135.
 - 高天翔*, 陈治, 王晓艳, **张浩博**, 史会来. 褐菖鲉养殖密度与其eDNA的相关关系探讨. _水生生物学报_ , 2022, 7(46): 1007-1015. 
 
 ## 在投论文
